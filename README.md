@@ -25,7 +25,7 @@ The basic requirements for building the executable are:
 - Node Package Manager (For running, debuging, or installing dependancies to be used)
 
 ### Setup
->git clone https://github.com/kosher9/kosher9.github.io.git
+>git clone git@github.com:Rizwan-learn/Leaderboard.git
 
 ### Install
 Getting packages and debuging with Stylelint
@@ -54,8 +54,8 @@ Getting packages and testing with Jest
 👤 **Rizwan Hasan**
 
 - GitHub: [@Rizwan-learn](https://github.com/Rizwan-learn)
-- Twitter: [@kosherus](https://twitter.com/kosherus)
-- LinkedIn: [Lionel Cedric KOSSI](https://linkedin.com/in/lionel-c%C3%A9dric-kossi-323042172)
+- Twitter: [@RizwanH97](https://twitter.com/RizwanH97)
+- LinkedIn: [Rizwan Hasan ](https://www.linkedin.com/in/rizwan-h-4b3096150/)
 
 ## 🤝 Contributing
 
